@@ -109,11 +109,11 @@ This formula decodes roast type abbreviations (`M`, `L`, `D`) into full names fo
 ### Interactivity
 
 - **Timeline filter** allows monthly sales exploration  
-![Timeline Filter]<img width="1091" height="148" alt="Dashboard Timeline" src="https://github.com/user-attachments/assets/624652ba-4f60-425e-994a-67bcdcb4b725" />
+<img width="1091" height="148" alt="Dashboard Timeline" src="https://github.com/user-attachments/assets/624652ba-4f60-425e-994a-67bcdcb4b725" />
 
 
 - **Slicers** enable filtering by Roast Type, Size, and Loyalty Card  
-![Slicers]<img width="445" height="174" alt="Roast Type - Size - Loyalty Card Slicers" src="https://github.com/user-attachments/assets/3470d369-2ec5-4cee-8834-96576953d6d2" />
+<img width="445" height="174" alt="Roast Type - Size - Loyalty Card Slicers" src="https://github.com/user-attachments/assets/3470d369-2ec5-4cee-8834-96576953d6d2" />
 
 
 ---
@@ -122,21 +122,21 @@ This formula decodes roast type abbreviations (`M`, `L`, `D`) into full names fo
 
 ### Total Sales Over Time  
 Sales patterns reveal that Arabica and Liberica have consistent revenue spikes, particularly in Q1 and Q4 across years.  
-![Sales Over Time]<img width="1089" height="543" alt="Sales Over Time Line Chart" src="https://github.com/user-attachments/assets/22740f1e-c31d-4dfa-9aad-de3449ad819e" />
+<img width="1089" height="543" alt="Sales Over Time Line Chart" src="https://github.com/user-attachments/assets/22740f1e-c31d-4dfa-9aad-de3449ad819e" />
 
 
 ---
 
 ### Top 5 Customers  
 The top five customers contributed more than $1,470 in sales, representing over 10% of total revenue. Their order frequency and volume suggest high-value, potentially loyal relationships that should be prioritized in retention strategies.  
-![Top Customers]<img width="444" height="249" alt="Top 5 Customers Bar Chart" src="https://github.com/user-attachments/assets/3a331c8f-273b-4e7b-913a-005492b1f4c3" />
+<img width="444" height="249" alt="Top 5 Customers Bar Chart" src="https://github.com/user-attachments/assets/3a331c8f-273b-4e7b-913a-005492b1f4c3" />
 
 
 ---
 
 ### Sales by Country  
 Sales were heavily concentrated in the United States, followed by Ireland and the United Kingdom.  
-![Sales by Country]<img width="445" height="288" alt="Sales By Country Pie Chart" src="https://github.com/user-attachments/assets/a15bec19-e7c1-4a9f-94dc-0aea070f6894" />
+<img width="445" height="288" alt="Sales By Country Pie Chart" src="https://github.com/user-attachments/assets/a15bec19-e7c1-4a9f-94dc-0aea070f6894" />
 
 
 ---
