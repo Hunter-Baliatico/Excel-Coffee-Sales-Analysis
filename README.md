@@ -3,7 +3,8 @@
 This project demonstrates a complete data analysis workflow using Microsoft Excel. It involves cleaning and enriching raw transactional data, applying advanced formulas for transformation, and developing an interactive dashboard for exploring key performance indicators.
 
 The final product provides actionable insights into customer behavior, geographic sales distribution, product performance, and temporal sales trends. While the dataset represents a retail use case, the analytical techniques and dashboarding approach are transferable to a wide range of industries including finance, operations, marketing, and customer analytics.
-<img width="1538" height="745" alt="Dashboard" src="https://github.com/user-attachments/assets/9a9bd27a-672f-4203-9157-81e881277fd0" />
+<img width="1537" height="806" alt="Dashboard" src="https://github.com/user-attachments/assets/7f4e26a7-e54f-4910-84bf-b608253ca4ca" />
+
 
 ---
 
