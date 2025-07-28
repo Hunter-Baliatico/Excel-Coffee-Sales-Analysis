@@ -174,6 +174,16 @@ Sales are mostly concentrated in the U.S., with smaller but notable contribution
 
 ---
 
+## Conclusion
+
+This project showcases my ability to take a raw, multi-table dataset and turn it into a structured, insight-driven dashboard using only Excel. From writing lookup and logic formulas to building interactive visuals and formatting for clarity, I applied a range of skills that are essential in real-world data roles.
+
+You can view the completed Excel workbook and dashboard here:
+https://1drv.ms/x/c/70b0cb6e683552dc/ETjjhP9Yb01GvqOB6LvN0H4BVmXeTHsM2TOw6BLrAHwj4g?e=3drpzP
+
+
+---
+
 ## Author
 
 **Hunter Baliatico**  
