@@ -102,6 +102,17 @@ This formula changes roast type abbreviations (`M`, `L`, `D`) into full names fo
 ```excel
 =IF(J2="M","Medium",IF(J2="L","Light",IF(J2="D","Dark","")))
 ```
+---
+
+### 3. Standard Data Cleaning Tasks
+
+In addition to formula-driven transformation, basic cleanup steps ensured consistency across the dataset:
+
+- **Date Formatting**:Date fields were reformatted for grouping in timeline visuals.
+- **Currency Formatting**: Prices and totals were formatted as currency with no decimals to improve clarity.
+- **Duplicate Checks**: Checked for and removed duplicate records to prevent incorrect counts ins sections.
+- **Column Renaming & Sorting**: Column names were clarified for easier reference in PivotTables.
+
 
 ---
 
