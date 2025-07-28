@@ -1,6 +1,9 @@
 # Coffee Sales Dashboard (Excel Project)
 
-An end-to-end business intelligence project built entirely in Excel, analyzing sales performance for a fictional coffee company. This project highlights trends in revenue, customer behavior, and product performance through data cleaning, enrichment, and visualization.
+This project demonstrates a complete data analysis workflow using Microsoft Excel. It involves cleaning and enriching raw transactional data, applying advanced formulas for transformation, and developing an interactive dashboard for exploring key performance indicators.
+
+The final product provides actionable insights into customer behavior, geographic sales distribution, product performance, and temporal sales trends. While the dataset represents a retail use case, the analytical techniques and dashboarding approach are transferable to a wide range of industries including finance, operations, marketing, and customer analytics.
+<img width="1538" height="745" alt="Dashboard" src="https://github.com/user-attachments/assets/9a9bd27a-672f-4203-9157-81e881277fd0" />
 
 ---
 
@@ -101,18 +104,13 @@ This formula decodes roast type abbreviations (`M`, `L`, `D`) into full names fo
 
 ---
 
-## Dashboard Overview
-
-**Full Dashboard View**  
-![Dashboard](screenshots/Dashboard.PNG)
-
 ### Interactivity
 
 - **Timeline filter** allows monthly sales exploration  
 <img width="1091" height="148" alt="Dashboard Timeline" src="https://github.com/user-attachments/assets/624652ba-4f60-425e-994a-67bcdcb4b725" />
 
 
-- **Slicers** enable filtering by Roast Type, Size, and Loyalty Card  
+- **Slicers** enable filtering by Roast Type, Size, and Loyalty Card for all graphs
 <img width="445" height="174" alt="Roast Type - Size - Loyalty Card Slicers" src="https://github.com/user-attachments/assets/3470d369-2ec5-4cee-8834-96576953d6d2" />
 
 
